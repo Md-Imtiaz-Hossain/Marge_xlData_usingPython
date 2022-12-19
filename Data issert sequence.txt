@@ -1,0 +1,268 @@
+# Dataset path
+# DATASET/23.  Final Report Print -(All Information) - Statistic Spring-2017.xlsx
+# DATASET/Details Data (correction) 2006 Spring.xls
+# DATASET/Details Data Final - Fall-  2013 Final.xls
+# DATASET/Master_Details_Data Fall 2015 09.01.15 Statistics.xls
+
+======================= EEE ==============================================================
+
+DATASET/23.  Final Report Print -(All Information) - Statistic Spring-2017.xlsx
+EEE
+13
+STUDENT_NAME
+C5:C204
+Done inserting STUDENT_NAME column, ready for next...
+STUDENT_ID
+B5:B204
+Done inserting STUDENT_ID column, ready for next...
+GENDER
+D5:D204
+Done inserting GENDER column, ready for next...
+FATHER_NAME
+E5:E204
+Done inserting GENDER column, ready for next...
+MOTHER_NAME
+F5:F204
+Done inserting  Address of the local gurdians column, ready for next...
+RELIGION
+G5:G204
+Done inserting Religion column, ready for next...
+SSC_BOARD
+H5:H204
+Done inserting SSC Board column, ready for next...
+HSC_BOARD
+I5:I204
+Done inserting HSC Board column, ready for next...
+SSC_GPA
+J5:J204
+Done inserting SSC Gpa column, ready for next...
+HSC_GPA
+K5:K204
+Done inserting HSC Gpa column, ready for next...
+SSC_YEAR
+M5:M204
+Done inserting SSC Year column, ready for next...
+HSC_YEAR
+N5:N204
+Done inserting HSC Year column, ready for next...
+DATE_OF_BIRTH
+O5:O204
+
+
+======================= CSE ==============================================================
+
+DATASET/23.  Final Report Print -(All Information) - Statistic Spring-2017.xlsx
+CSE
+13
+STUDENT_NAME
+C5:C154
+Done inserting STUDENT_NAME column, ready for next...
+STUDENT_ID
+B5:B154
+Done inserting STUDENT_ID column, ready for next...
+GENDER
+D5:D154
+Done inserting GENDER column, ready for next...
+FATHER_NAME
+E5:E154
+Done inserting GENDER column, ready for next...
+MOTHER_NAME
+F5:F154
+Done inserting  Address of the local gurdians column, ready for next...
+RELIGION
+G5:G154
+Done inserting Religion column, ready for next...
+SSC_BOARD
+H5:H154
+Done inserting SSC Board column, ready for next...
+HSC_BOARD
+I5:I154
+Done inserting HSC Board column, ready for next...
+SSC_GPA
+J5:J154
+Done inserting SSC Gpa column, ready for next...
+HSC_GPA
+K5:K154
+Done inserting HSC Gpa column, ready for next...
+SSC_YEAR
+M5:M154
+Done inserting SSC Year column, ready for next...
+HSC_YEAR
+N5:N154
+Done inserting HSC Year column, ready for next...
+DATE_OF_BIRTH
+O5:O154
+
+
+======================= CE ==============================================================
+
+DATASET/23.  Final Report Print -(All Information) - Statistic Spring-2017.xlsx
+CE
+13
+STUDENT_NAME
+C5:C154
+Done inserting STUDENT_NAME column, ready for next...
+STUDENT_ID
+B5:B154
+Done inserting STUDENT_ID column, ready for next...
+GENDER
+D5:D154
+Done inserting GENDER column, ready for next...
+FATHER_NAME
+E5:E154
+Done inserting GENDER column, ready for next...
+MOTHER_NAME
+F5:F154
+Done inserting  Address of the local gurdians column, ready for next...
+RELIGION
+G5:G154
+Done inserting Religion column, ready for next...
+SSC_BOARD
+H5:H154
+Done inserting SSC Board column, ready for next...
+HSC_BOARD
+I5:I154
+Done inserting HSC Board column, ready for next...
+SSC_GPA
+J5:J154
+Done inserting SSC Gpa column, ready for next...
+HSC_GPA
+K5:K154
+Done inserting HSC Gpa column, ready for next...
+SSC_YEAR
+M5:M154
+Done inserting SSC Year column, ready for next...
+HSC_YEAR
+N5:N154
+Done inserting HSC Year column, ready for next...
+DATE_OF_BIRTH
+O5:O154
+
+======================= ARC ==============================================================
+
+DATASET/23.  Final Report Print -(All Information) - Statistic Spring-2017.xlsx
+ARC
+13
+STUDENT_NAME
+C5:C54
+Done inserting STUDENT_NAME column, ready for next...
+STUDENT_ID
+B5:B54
+Done inserting STUDENT_ID column, ready for next...
+GENDER
+D5:D54
+Done inserting GENDER column, ready for next...
+FATHER_NAME
+E5:E54
+Done inserting GENDER column, ready for next...
+MOTHER_NAME
+F5:F54
+Done inserting  Address of the local gurdians column, ready for next...
+RELIGION
+G5:G54
+Done inserting Religion column, ready for next...
+SSC_BOARD
+H5:H54
+Done inserting SSC Board column, ready for next...
+HSC_BOARD
+I5:I54
+Done inserting HSC Board column, ready for next...
+SSC_GPA
+J5:J54
+Done inserting SSC Gpa column, ready for next...
+HSC_GPA
+K5:K54
+Done inserting HSC Gpa column, ready for next...
+SSC_YEAR
+M5:M54
+Done inserting SSC Year column, ready for next...
+HSC_YEAR
+N5:N54
+Done inserting HSC Year column, ready for next...
+DATE_OF_BIRTH
+O5:O54
+
+SEMESTER_ID
+RECEIPT_ID
+PIN
+HSC_BOARD
+HSC_ROLL
+HSC_REGNO
+HSC_YEAR
+HSC_GROUP
+SSC_BOARD
+SSC_ROLL
+SSC_YEAR
+SSC_GROUP
+GENDER
+DATE_OF_BIRTH
+STUDENT_NAME
+FATHER_NAME
+MOTHER_NAME
+SSC_GPA
+HSC_GPA
+QUOTA
+ADMISSION_ROLL
+MERIT_SL_NO
+STUDENT_ID
+ALLOCATED_PROGRAM_ID
+MIGRATION_STATUS
+LAST_MODIFIED
+UNIT
+PROGRAM_TYPE
+NID
+BIRTH_REG
+PASSPORT
+PROGRAM_ID_BY_MERIT
+PROGRAM_ID_BY_TRANSFER
+PRESENT_STATUS
+DEADLINE
+VERIFICATION_STATUS
+MIGRATED_FROM
+UNDERTAKEN_DEADLINE
+STATUS
+MIGRATION_NO
+FIRST_NAME
+LAST_NAME
+BLOOD_GROUP
+MOBILE
+EMAIL
+RELIGION
+GUARDIAN_NAME
+GUARDIAN_MOBILE
+PRESENT_ADDRESS_LINE
+PRESENT_COUNTRY_ID
+PRESENT_DIVISION_ID
+PRESENT_DISTRICT_ID
+PRESENT_THANA_ID
+PRESENT_THANA_OTHER
+PERMANENT_ADDRESS_LINE
+PERMANENT_COUNTRY_ID
+PERMANENT_DIVISION_ID
+PERMANENT_DISTRICT_ID
+PERMANENT_THANA_ID
+PERMANENT_THANA_OTHER
+FATHER_NID
+TRANSACTION_TYPE
+
+
+ID	STUDENT_ID	PRESENT_ADDRESS_LINE	PRESENT_COUNTRY_ID
+PRESENT_DIVISION_ID	PRESENT_DISTRICT_ID	PRESENT_THANA_ID
+PRESENT_THANA_IS_OTHERS	PRESENT_THANA_OTHERS	PERMANENT_ADDRESS_LINE
+PERMANENT_COUNTRY_ID	PERMANENT_DIVISION_ID	PERMANENT_DISTRICT_ID
+PERMANENT_THANA_ID	PERMANENT_THANA_IS_OTHERS	PERMANENT_THANA_OTHERS
+LAST_MODIFIED	CREATED_ON	UPDATED_ON
+
+
+
+STUDENT_ID	FULL_NAME	DEPT_ID	PROGRAM_ID	ADMITTED_SEMESTER
+CURR_YEAR	CURR_SEMESTER	ENROLLMENT_TYPE	LAST_ENROLLED_SEMESTER
+THEORY_SECTION	SESSIONAL_SECTION	ADVISER	FATHER_NAME	MOTHER_NAME
+BIRTH_DATE	GENDER	PRESENT_ADDRESS	PERMANENT_ADDRESS	MOBILE_NUMBER
+PHONE_NUMBER	BLOOD_GROUP	EMAIL_ADDRESS	GUARDIAN_NAME
+GUARDIAN_MOBILE	GUARDIAN_PHONE	GUARDIAN_EMAIL	LAST_MODIFIED
+STATUS	CGPA	NATIONALITY	RECEIPT_ID	FIRST_NAME	LAST_NAME
+RELIGION	QUOTA_TYPE	IS_WAIVED	WAIVED_PERCENTAGE	DEGREE_AWARD_SEMESTER
+DEGREE_AWARD_DATE	PERSONAL_EMAIL_ADDRESS	NID	BIRTH_CERTIFICATE_NO	FATHER_NID
+
+
