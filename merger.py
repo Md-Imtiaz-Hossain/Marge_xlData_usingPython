@@ -1,6 +1,9 @@
 
 import pandas as pd
 import os
+
+# Marge all file and save into another file name Final.xlsx
+
 files = os.listdir('pandas/')
 datasets = []
 for f in files:
